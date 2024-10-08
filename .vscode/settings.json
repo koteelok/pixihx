@@ -1,0 +1,15 @@
+{
+  "haxe.displayPort": 9000,
+  "haxe.configurations": [
+    {
+      "label": "JavaScript",
+      "args": ["-js dist/output.js"]
+    },
+    {
+      "label": "HashLink",
+      "args": ["-hl dist/output.hl"]
+    },
+    { "label": "JVM", "args": ["-jvm dist/output.jar"] },
+    { "label": "C++", "args": ["-cpp dist/cpp"] }
+  ]
+}

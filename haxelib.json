@@ -1,0 +1,19 @@
+{
+  "name": "pixihx",
+  "url": "https://github.com/koteelok/pixihx",
+  "license": "MIT",
+  "tags": [
+    "2d",
+    "gpu",
+    "js",
+    "web",
+    "cpp"
+  ],
+  "description": "Cross-platfrom 2D rendering engine",
+  "version": "0.0.1",
+  "contributors": [
+    "koteelok"
+  ],
+  "releasenote": "Initial release",
+  "dependencies": {}
+}

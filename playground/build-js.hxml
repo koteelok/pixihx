@@ -1,0 +1,8 @@
+-cp src
+-main Main
+-lib pixihx
+-js dist/main.js
+# -D js-source-map
+--dce full
+-D js-es=6
+# -D analyzer-optimize
